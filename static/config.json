@@ -8,12 +8,12 @@
   "services": ["API", "Website", "Discord Bot"],
   "statuses": {
     "operational": "#2ecc71",
-    "degraded": "#f39c12",
+    "partial outage": "#f39c12",
     "outage": "#e74c3c"
   },
   "statusMessages": {
     "operational": "All systems operational",
-    "Issues": "Having Issues",
+    "partial outage": "Having Issues",
     "outage": "Major outage"
   },
   "footer": "Hosted with ❤️ by GitHub."

@@ -5,7 +5,7 @@
   "repo": "PurifyBot/status",
   "owner": "PurifyBot",
   "statusRepo": "PurifyBot/status",
-  "services": ["API", "Website", "Parser"],
+  "services": ["API", "Website", "Discord Bot"],
   "statuses": {
     "operational": "#2ecc71",
     "degraded": "#f39c12",

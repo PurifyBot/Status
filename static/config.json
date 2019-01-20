@@ -9,7 +9,7 @@
   "statuses": {
     "operational": "#2ecc71",
     "partial outage": "#f39c12",
-    "outage": "#e74c3c"
+    "outage": "#e74c3c",
     "maintenance": "#551A8B"
   },
   "statusMessages": {

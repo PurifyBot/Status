@@ -1,0 +1,20 @@
+{
+  "title": "Purify Bot Status",
+  "name": "Status",
+  "link": "http://purifystatus",
+  "repo": "PurifyBot/statusreport",
+  "owner": "PurifyBot",
+  "statusRepo": "PurifyBot/statusreport",
+  "services": ["API", "Website", "Parser"],
+  "statuses": {
+    "operational": "#2ecc71",
+    "degraded": "#f39c12",
+    "outage": "#e74c3c"
+  },
+  "statusMessages": {
+    "operational": "All systems operational",
+    "degraded": "Degraded perfomance",
+    "outage": "Major outage"
+  },
+  "footer": "Hosted with ❤️ by GitHub."
+}

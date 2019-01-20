@@ -6,7 +6,6 @@ import { findWhere } from 'underscore';
 // Import components
 import Announcement from './Announcement';
 import Header from './Header';
-import Commits from './Commits';
 import Issues from './Issues';
 import Footer from './Footer';
 

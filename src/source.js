@@ -109,7 +109,6 @@ class Statuspage extends React.Component {
             serviceStates={this.state.serviceStates}
           />
           <div className="main-block w-100 d-flex flex-column">
-            <Commits repo={this.state.repo} commits={this.state.commits} />
             <Issues
               onParse={this.handleIssuesParse.bind(this)}
               statuses={this.state.statuses}

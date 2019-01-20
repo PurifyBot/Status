@@ -10,11 +10,13 @@
     "operational": "#2ecc71",
     "partial outage": "#f39c12",
     "outage": "#e74c3c"
+    "maintenance": "#e74c3c"
   },
   "statusMessages": {
     "operational": "All systems operational",
     "partial outage": "Having Issues",
-    "outage": "Major outage"
+    "outage": "Major outage",
+    "maintenance": "Reciving Updates"
   },
   "footer": "Hosted with ❤️ by GitHub."
 }
